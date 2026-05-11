@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "fcs",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dbcd16d1-fc2f-4e3d-956d-0c2be936a254",
+			"database_name": "fcs-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
